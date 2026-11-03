@@ -19,7 +19,6 @@
 
 ## 📖 Table of Contents
 - [About](#-about)
-- [Screenshots](#-screenshots)
 - [Features](#-features)
 - [Architecture](#-multi-database-architecture)
 - [Tech Stack](#-tech-stack)
@@ -41,22 +40,6 @@ This project is the **Public Transportation module** of a Smart City Digital Pla
 - **Neo4j** models the road network, so shortest paths and nearby places are single queries.
 
 A Node.js and Express backend combines the three, and a React dashboard shows the result.
-
----
-
-## 📸 Screenshots
-
-| Login | Dashboard |
-|:---:|:---:|
-| ![Login](docs/screenshots/login.png) | ![Dashboard](docs/screenshots/dashboard.png) |
-
-| Live Tracking | Schedules |
-|:---:|:---:|
-| ![Live Tracking](docs/screenshots/live-tracking.png) | ![Schedules](docs/screenshots/schedules.png) |
-
-| Nearby Places |
-|:---:|
-| ![Nearby Places](docs/screenshots/nearby-places.png) |
 
 ---
 
